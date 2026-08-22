@@ -96,7 +96,8 @@ After completing the sequence, the system repeats the cycle continuously.
 - When the **Red LED is ON**, the servo motor moves to **90°**, indicating a stop signal.
 - When the **Yellow LED is ON**, the servo motor moves to **45°**, acting as a warning signal.
 - When the **Green LED is ON**, the servo motor rotates to **0°**, indicating a go signal.
-- The **Red → Yellow → Green** sequence repeats continuously, demonstrating a simple automated traffic light control system.
+
+The **Red → Yellow → Green** sequence repeats continuously, demonstrating a simple automated traffic light control system.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
