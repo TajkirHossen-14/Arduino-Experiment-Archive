@@ -12,7 +12,7 @@
 
 | No. | Experiment | Components |
 |-----|------------|------------|
-| 1 | [Traffic Light Control Using Servo Motor and LEDs]((https://github.com/TajkirHossen-14/Arduino-Experiment-Archive/tree/d5b24fe2771cc9565058cf964230b16accd1d74c/Traffic%20Light%20Control)) | Arduino, LEDs, Servo Motor |
+| 1 | [Traffic Light Control Using Servo Motor and LEDs](https://github.com/TajkirHossen-14/Arduino-Experiment-Archive/tree/d5b24fe2771cc9565058cf964230b16accd1d74c/Traffic%20Light%20Control) | Arduino, LEDs, Servo Motor |
 | 2 | [Distance Measurement Using Ultrasonic Sensor, LEDs and Servo Motor](./2-Distance-Measurement/) | Arduino, Ultrasonic Sensor, LEDs, Servo Motor |
 | 3 | Coming Soon | — |
 
