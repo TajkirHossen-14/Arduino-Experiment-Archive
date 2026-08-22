@@ -9,7 +9,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003c84&height=2&section=header"/>
 
 ## 📚 Experiments
 
@@ -19,7 +19,7 @@
 | 2 | [Distance Measurement Using Ultrasonic Sensor, LEDs and Servo Motor](./2-Distance-Measurement/) | Arduino, Ultrasonic Sensor, LEDs, Servo Motor |
 | 3 | Coming Soon | — |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003c84&height=2&section=header"/>
 
 ## 📂 Repository Structure
 
@@ -29,7 +29,7 @@ Each experiment contains :
 - 🔌 Circuit Diagram — Simulation/Practical Circuit Image
 - 📄 `README.md` — Experiment Documentation 
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003c84&height=2&section=header"/>
 
 ## 🎯 Purpose
 
