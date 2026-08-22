@@ -64,7 +64,7 @@ This experiment demonstrates a simple traffic light control system using an **Ar
 
 ## </> Code
 
-[See Here](Traffic_Light_Control.ino)
+The Arduino source code for this experiment is available in the [`Traffic_Light_Control.ino`](Traffic_Light_Control.ino) file included in this folder.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
