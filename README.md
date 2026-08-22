@@ -1,4 +1,7 @@
 <div align='center'>
+<p align="center">
+  <img src="Assets\Banner\Arduino-Experiment-Archive_Banner.png" alt="Arduino Experiment Archive Banner" width="100%">
+</p>
 
 # Arduino Experiment Archive
 
