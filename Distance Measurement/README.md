@@ -57,6 +57,18 @@ This experiment demonstrates a simple distance measurement and indication system
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
+## 📷 Circuit Diagram
+
+![Distance Measurement Circuit](Circuit Diagram.png)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
+
+## </> Source Code
+
+The Arduino source code for this experiment is available in the [`Distance-Measurement.ino`](Distance-Measurement.ino) file included in this folder.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
+
 ## ⚙️ Working Principle
 
 The HC-SR04 ultrasonic sensor sends an ultrasonic pulse and receives its reflected signal. The time taken for the signal to return is used to calculate the distance of the object.
@@ -78,18 +90,6 @@ The distance is continuously measured, and the corresponding LED and servo posit
 - When the distance is between **50 cm and 100 cm**, the **Yellow LED** turns ON and the servo motor moves to **45°**.
 - When the detected distance is **100 cm or more**, the **Green LED** turns ON and the servo motor rotates to **0°**.
 - During the initial implementation, some **inconsistent sensor readings and hardware-related issues** were observed. After checking the connections and making the necessary adjustments, the system responded according to the measured distance.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
-
-## 📷 Circuit Diagram
-
-![Distance Measurement Circuit](Circuit Diagram.png)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
-
-## </> Source Code
-
-The Arduino source code for this experiment is available in the [`Distance-Measurement.ino`](Distance-Measurement.ino) file included in this folder.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
