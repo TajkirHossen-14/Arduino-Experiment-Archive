@@ -31,16 +31,18 @@ This experiment demonstrates a simple traffic light control system using an **Ar
 ### 💻 Software Requirements
 
 - Arduino IDE
+- Simulation Tool (Tinkercad / Wokwi)
 - Arduino Programming Language (C/C++)
 
 ## 🔌 Pin Configuration
 
-| Component | Arduino Pin |
-|-----------|-------------|
-| 🔴 Red LED | D7 |
-| 🟡 Yellow LED | D6 |
-| 🟢 Green LED | D5 |
-| ⚙️ Servo Signal | D0 |
+| Component | Connection |
+|-----------|------------|
+| 🔴 Red LED | Anode → D7 through 220Ω–330Ω resistor, Cathode → GND |
+| 🟡 Yellow LED | Anode → D6 through 220Ω–330Ω resistor, Cathode → GND |
+| 🟢 Green LED | Anode → D5 through 220Ω–330Ω resistor, Cathode → GND |
+| ⚙️ Servo Motor | Signal → D0, VCC → 5V, GND → GND |
+| 🔋 Arduino Power | 5V → VCC/Power rail, GND → Ground rail |
 
 > **Note:** The servo signal pin is connected to **D0** according to the practical circuit setup.
 
