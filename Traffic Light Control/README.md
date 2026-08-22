@@ -62,7 +62,7 @@ This experiment demonstrates a simple traffic light control system using an **Ar
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
-## 👨🏻‍💻 Code
+## </> Code
 
 [See Here](Traffic_Light_Control.ino)
 
