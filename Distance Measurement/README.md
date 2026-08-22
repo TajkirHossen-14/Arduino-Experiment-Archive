@@ -4,9 +4,13 @@
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
+
 ## 📌 Overview
 
 This experiment demonstrates a simple distance measurement and indication system using an **Arduino, HC-SR04 Ultrasonic Sensor, LEDs, and a Servo Motor**. The ultrasonic sensor measures the distance of an object, and the system responds according to different distance ranges by controlling the LEDs and servo motor.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
 ## 🎯 Objective
 
@@ -14,6 +18,8 @@ This experiment demonstrates a simple distance measurement and indication system
 - To indicate different distance ranges using Red, Yellow, and Green LEDs.
 - To control the position of a servo motor based on the measured distance.
 - To understand the practical interfacing of sensors and actuators with Arduino.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
 ## 🧰 Apparatus 
 
@@ -35,6 +41,8 @@ This experiment demonstrates a simple distance measurement and indication system
 - Simulation Tool (Tinkercad / Wokwi)
 - Arduino Programming Language (C/C++)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
+
 ## 🔌 Pin Configuration
 
 | Component | Connection |
@@ -44,8 +52,10 @@ This experiment demonstrates a simple distance measurement and indication system
 | 🟢 Green LED | Anode → D8 through 220Ω–330Ω resistor, Cathode → GND |
 | 📡 HC-SR04 Trig | D7 |
 | 📡 HC-SR04 Echo | D6 |
-| ⚙️ Servo Motor | Signal → D11, VCC → 5V, GND → GND |
+| ⚙️ Servo Motor | Signal → D0, VCC → 5V, GND → GND |
 | 🔋 Arduino Power | 5V → Positive Rail, GND → Ground Rail |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
 ## ⚙️ Working Principle
 
@@ -59,6 +69,8 @@ The system then responds according to the measured distance:
 
 The distance is continuously measured, and the corresponding LED and servo position are updated accordingly.
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
+
 ## 📊 Output / Observation
 
 - The ultrasonic sensor detects the distance of an object by transmitting and receiving ultrasonic waves.
@@ -67,14 +79,19 @@ The distance is continuously measured, and the corresponding LED and servo posit
 - When the detected distance is **100 cm or more**, the **Green LED** turns ON and the servo motor rotates to **0°**.
 - During the initial implementation, some **inconsistent sensor readings and hardware-related issues** were observed. After checking the connections and making the necessary adjustments, the system responded according to the measured distance.
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
+
 ## 📷 Circuit Diagram
 
-![Distance Measurement Circuit](circuit-diagram.png)
+![Distance Measurement Circuit](Circuit Diagram.png)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
 ## </> Source Code
 
 The Arduino source code for this experiment is available in the `[.ino](Distance-Measurement.ino)` file included in this folder.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
 ## 📁 Project Files
 
