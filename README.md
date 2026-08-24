@@ -5,7 +5,7 @@
 
 # Arduino Experiment Archive
 
-### A collection of Arduino experiments, projects, circuit diagrams, source code and documentation.
+#### A collection of Arduino experiments, projects, circuit diagrams, source code and documentation.
 
 </div>
 
