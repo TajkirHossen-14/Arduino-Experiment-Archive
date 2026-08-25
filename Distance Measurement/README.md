@@ -1,6 +1,6 @@
 <div align='center'>
 
-# 📏 Distance Measurement Using Ultrasonic Sensor, LEDs and Servo Motor
+# 📏 Distance Measurement Using Ultrasonic Sensor, LCD, LEDs and Servo Motor
 
 </div>
 
