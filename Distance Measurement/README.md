@@ -62,7 +62,7 @@ This experiment demonstrates a simple distance measurement and indication system
 
 ## 📷 Circuit Diagram
 
-![Distance Measurement Circuit](Circuit%20Diagram.png)
+![Distance Measurement Circuit](Circuit_Diagram.png)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
