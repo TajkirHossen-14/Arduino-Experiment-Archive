@@ -1,68 +1,81 @@
+#include <LiquidCrystal_I2C.h>
 #include <Servo.h>
 
 Servo myServo;
 
-int trigPin = 7;
-int echoPin = 6;
+const int TRIG_PIN = 12;
+const int ECHO_PIN = 11;
 
-int redLED = 10;
-int yellowLED = 9;
-int greenLED = 8;
+const int RED_LED = 7;
+const int YELLOW_LED = 6;
+const int GREEN_LED = 5;
 
-int servoPin = 0;
+const int SERVO_PIN = 1;
 
-long duration;
-float distance;
+LiquidCrystal_I2C myLCD(0x22, 16, 2);
+
+long Duration;
+float Distance;
 
 void setup()
 {
-  pinMode(redLED, OUTPUT);
-  pinMode(yellowLED, OUTPUT);
-  pinMode(greenLED, OUTPUT);
+  pinMode(TRIG_PIN, OUTPUT);
+  pinMode(ECHO_PIN, INPUT);
 
-  pinMode(trigPin, OUTPUT);
-  pinMode(echoPin, INPUT);
+  pinMode(RED_LED, OUTPUT);
+  pinMode(YELLOW_LED, OUTPUT);
+  pinMode(GREEN_LED, OUTPUT);
 
-  myServo.attach(servoPin);
+  myServo.attach(SERVO_PIN);
+
+  myLCD.init();
+  myLCD.backlight();
 }
 
 void loop()
 {
-  digitalWrite(trigPin, HIGH);
+  digitalWrite(TRIG_PIN, HIGH);
   delayMicroseconds(10);
-  digitalWrite(trigPin, LOW);
+  digitalWrite(TRIG_PIN, LOW);
 
-  duration = pulseIn(echoPin, HIGH);
+  Duration = pulseIn(ECHO_PIN, HIGH);
 
-  distance = (duration * 0.0343) / 2;
+  Distance = (Duration * 0.0343) / 2;
 
-  if (distance < 50)
+  myLCD.clear();
+  myLCD.setCursor(3, 0);
+  myLCD.print("Distance");
+  myLCD.setCursor(3, 1);
+  myLCD.print(Distance);
+  myLCD.print(" cm");
+
+  if (Distance < 50)
   {
-    digitalWrite(redLED, HIGH);
+    digitalWrite(RED_LED, HIGH);
     myServo.write(90);
 
-    delay(2000);
+    delay(500);
 
-    digitalWrite(redLED, LOW);
+    digitalWrite(RED_LED, LOW);
   }
 
-  else if (distance > 50 && distance < 100)
+  else if (Distance >= 50 && Distance < 100)
   {
-    digitalWrite(yellowLED, HIGH);
+    digitalWrite(YELLOW_LED, HIGH);
     myServo.write(45);
 
-    delay(2000);
+    delay(500);
 
-    digitalWrite(yellowLED, LOW);
+    digitalWrite(YELLOW_LED, LOW);
   }
 
   else
   {
-    digitalWrite(greenLED, HIGH);
+    digitalWrite(GREEN_LED, HIGH);
     myServo.write(0);
 
-    delay(2000);
+    delay(500);
 
-    digitalWrite(greenLED, LOW);
+    digitalWrite(GREEN_LED, LOW);
   }
 }
