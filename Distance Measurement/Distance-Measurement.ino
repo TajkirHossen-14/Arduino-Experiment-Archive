@@ -74,7 +74,7 @@ void loop()
     digitalWrite(GREEN_LED, HIGH);
     myServo.write(0);
 
-    delay(500);
+    delay(900);
 
     digitalWrite(GREEN_LED, LOW);
   }
