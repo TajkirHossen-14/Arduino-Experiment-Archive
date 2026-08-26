@@ -88,17 +88,6 @@ The distance is continuously measured, displayed on the LCD, and used to update 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
-## 📊 Output / Observation
-
-- The ultrasonic sensor detects the distance of an object by transmitting and receiving ultrasonic waves.
-- The measured distance is displayed on the LCD in **centimeters**.
-- When the detected distance is **less than 50 cm**, the **Red LED** turns ON and the servo motor moves to **90°**.
-- When the distance is between **50 cm and 100 cm**, the **Yellow LED** turns ON and the servo motor moves to **45°**.
-- When the detected distance is **100 cm or more**, the **Green LED** turns ON and the servo motor rotates to **0°**.
-- During the initial implementation, some **inconsistent sensor readings and hardware-related issues** were observed. After checking the connections and making the necessary adjustments, the system responded according to the measured distance.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
-
 ## 📁 Project Files
 
 ```text
