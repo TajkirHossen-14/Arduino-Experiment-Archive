@@ -17,7 +17,7 @@
 |-----|------------|------------|
 | 1 | [Traffic Light Control Using Servo Motor and LEDs](https://github.com/TajkirHossen-14/Arduino-Experiment-Archive/tree/5a2b4e8303b185c5676b9537c36105be6c42bbd0/Traffic%20Light%20Control) | Arduino, LEDs, Servo Motor |
 | 2 | [Distance Measurement Using Ultrasonic Sensor, LCD, LEDs and Servo Motor](https://github.com/TajkirHossen-14/Arduino-Experiment-Archive/tree/b57e8b8eaf3f0b01f5e2ff3bb36c5065a8f9ccbc/Distance%20Measurement) | Arduino, Ultrasonic Sensor, LEDs, Servo Motor |
-| 3 | Touch Sensor Based Door Lock With LED, Buzzer and Servo Motor | Arduino, Piezo Buzzer,LED, Servo Motor |
+| 3 | [Touch Sensor Based Door Lock With LED, Buzzer and Servo Motor](https://github.com/TajkirHossen-14/Arduino-Experiment-Archive/tree/534dc4f4c2512697807b83b7db8f3b18d15b579b/Touch%20Sensor%20Door%20Lock) | Arduino, Piezo Buzzer, LED, Servo Motor |
 | 4 | Coming Soon | — |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003c84&height=2&section=header"/>
