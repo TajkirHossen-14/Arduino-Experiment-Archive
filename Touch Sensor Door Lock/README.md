@@ -64,7 +64,7 @@ This experiment demonstrates a simple touch-based door lock system using an **Ar
 
 ## </> Source Code
 
-The Arduino source code for this experiment is available in the [`Touch Sensor Based Door Lock.ino`](Touch-Sensor-Based-Door-Lock.ino) file included in this folder.
+The Arduino source code for this experiment is available in the [`Touch-Sensor-Based-Door-Lock.ino`](Touch-Sensor-Based-Door-Lock.ino) file included in this folder.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
