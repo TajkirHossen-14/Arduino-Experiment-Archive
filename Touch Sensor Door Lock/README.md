@@ -81,8 +81,8 @@ The pushbutton is used to simulate the touch input of the door lock system. The 
 ## 📁 Project Files
 
 ```text
-Touch-Door-Lock/
+Touch Sensor Door Lock/
 │
-├── Touch-Door-Lock.ino
-├── Circuit Diagram.png
-└── README.md
+├── Touch-Sensor-Based-Door-Lock.ino
+├── Circuit_Diagram.png
+└── README.md 
