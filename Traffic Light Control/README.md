@@ -96,6 +96,6 @@ After completing the sequence, the system repeats the cycle continuously.
 ```text
 Traffic Light Control/
 │
-├── Traffic-Light-Control.ino
+├── Traffic_Light_Control.ino
 ├── Circuit Diagram.png
 └── README.md 
