@@ -9,7 +9,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003c84&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=028ca7&height=2&section=header"/>
 
 ## 📚 Experiments
 
