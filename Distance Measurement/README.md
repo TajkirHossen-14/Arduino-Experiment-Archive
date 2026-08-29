@@ -91,7 +91,7 @@ The distance is continuously measured, displayed on the LCD, and used to update 
 ## 📁 Project Files
 
 ```text
-Distance-Measurement/
+Distance Measurement/
 │
 ├── Distance-Measurement.ino
 ├── Circuit Diagram.png
