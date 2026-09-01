@@ -60,6 +60,8 @@ This experiment demonstrates a simple traffic light control system using an **Ar
 
 ![Traffic Light Control Circuit](Circuit_Diagram.png)
 
+🔗 **[View Live Simulation on Tinkercad](https://www.tinkercad.com/things/3bqd5OaMUvY-traffic-light-control-using-servo-motor-and-leds)**
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
 ## </> Code
