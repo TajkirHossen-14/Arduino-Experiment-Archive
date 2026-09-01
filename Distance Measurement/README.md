@@ -64,6 +64,8 @@ This experiment demonstrates a simple distance measurement and indication system
 
 ![Distance Measurement Circuit](Circuit_Diagram.png)
 
+🔗 **[View Live Simulation on Tinkercad](https://www.tinkercad.com/things/bQD2j64kVde-distance-measurement-using-ultrasonic-sensor-lcd-led-motor)**
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
 ## </> Source Code
