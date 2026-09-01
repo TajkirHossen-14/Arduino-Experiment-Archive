@@ -60,6 +60,8 @@ This experiment demonstrates a simple touch-based door lock system using an **Ar
 
 ![Touch Sensor Based Door Lock](Circuit_Diagram.png)
 
+🔗 **[View Live Simulation on Tinkercad](https://www.tinkercad.com/things/fNpoqS5jrJl-touch-sensor-based-door-lock-with-led-buzzer-and-servo-motor)**
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
 ## </> Source Code
