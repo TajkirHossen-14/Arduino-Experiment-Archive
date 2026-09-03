@@ -59,7 +59,7 @@ This experiment demonstrates an **Arduino-based automatic water level monitoring
 
 ![Water Level Based Automatic Pump Control](Circuit_Diagram.png)
 
-🔗 **[View Live Simulation on Tinkercad]()**
+🔗 **[View Live Simulation on Tinkercad](https://www.tinkercad.com/things/fllLhmeG2yM-water-level-based-automatic-pump-control)**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
