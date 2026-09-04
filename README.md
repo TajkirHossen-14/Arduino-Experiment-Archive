@@ -40,6 +40,4 @@ This repository is maintained as a record of practical Arduino experiments, impl
 
 ## 🐞 Issues & Suggestions
 
-Found a **bug, circuit problem, code error, documentation mistake, or have a suggestion for improvement**? Feel free to open a GitHub Issue.
-
-🔗 **[Report an Issue or Suggest an Improvement](../../issues/new)**
+Found a **bug, circuit problem, code error, documentation mistake, or have a suggestion for improvement**? Feel free to open a GitHub [Issue](../../issues/new)**.
