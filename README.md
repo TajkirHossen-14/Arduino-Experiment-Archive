@@ -35,3 +35,11 @@ Each experiment contains :
 ## 🎯 Purpose
 
 This repository is maintained as a record of practical Arduino experiments, implementation experiences, circuit designs and the concepts learned throughout the lab sessions.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=028ca7&height=2&section=header"/>
+
+## 🐞 Issues & Suggestions
+
+Found a **bug, circuit problem, code error, documentation mistake, or have a suggestion for improvement**? Feel free to open a GitHub Issue.
+
+🔗 **[Report an Issue or Suggest an Improvement](../../issues/new)**
