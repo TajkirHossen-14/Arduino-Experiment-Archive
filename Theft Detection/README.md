@@ -1,6 +1,6 @@
 <div align='center'>
 
-# 🚨 Theft Detection Using PIR Sensor, Buzzer and Servo Motor
+# 🚨 Theft Detection Using PIR Sensor and Buzzer
 
 </div>
 
