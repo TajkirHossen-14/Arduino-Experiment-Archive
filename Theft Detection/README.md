@@ -68,7 +68,7 @@ This experiment demonstrates a simple **theft detection system** using **Arduino
 
 ## </> Source Code
 
-The Arduino source code for this experiment is available in the [`Wireless-Theft-Detection.ino`](Theft_Detection.ino) file included in this folder.
+The Arduino source code for this experiment is available in the [`Theft_Detection.ino`](Theft_Detection.ino) file included in this folder.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
