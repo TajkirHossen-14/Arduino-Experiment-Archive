@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-This experiment demonstrates a simple **wireless theft detection system** using an **Arduino, PIR motion sensor, buzzer, LED, servo motor, and 16×2 I2C LCD**. The PIR sensor is used to detect movement within its sensing range. When motion is detected, the system activates the buzzer and LED, moves the servo motor, and displays an alert message on the LCD.
+This experiment demonstrates a simple **theft detection system** using **Arduino, PIR motion sensor, buzzer, LED, servo motor, and 16×2 I2C LCD**. The PIR sensor is used to detect movement within its sensing range. When motion is detected, the system activates the buzzer and LED, moves the servo motor, and displays an alert message on the LCD.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
