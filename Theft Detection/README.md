@@ -89,6 +89,6 @@ The PIR motion sensor continuously monitors its sensing area for movement. The A
 ```text
 Theft Detection/
 │
-├── Wireless-Theft-Detection.ino
+├── Theft_Detection.ino
 ├── Circuit_Diagram.png
 └── README.md
