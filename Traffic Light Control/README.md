@@ -99,5 +99,5 @@ After completing the sequence, the system repeats the cycle continuously.
 Traffic Light Control/
 │
 ├── Traffic_Light_Control.ino
-├── Circuit Diagram.png
+├── Circuit_Diagram.png
 └── README.md 
