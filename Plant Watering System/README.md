@@ -60,7 +60,7 @@ This experiment demonstrates an **automatic plant watering system** using an **A
 
 ![Automated Plant Watering System](Circuit_Diagram.png)
 
-🔗 **[View Live Simulation on Tinkercad](YOUR_TINKERCAD_LINK)**
+🔗 **[View Live Simulation on Tinkercad](https://www.tinkercad.com/things/6XOmehuZJFM-plant-watering-system-using-soil-moisture-sensor-and-water-pump)**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
