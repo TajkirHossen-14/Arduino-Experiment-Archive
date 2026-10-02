@@ -20,7 +20,7 @@
 | 3 | [Touch Sensor Based Door Lock With LED, Buzzer and Servo Motor](Touch%20Sensor%20Door%20Lock) | Arduino, Piezo Buzzer, Pushbutton, LED, Servo Motor |
 | 4 | [Water Level Based Automatic Pump Control](Water%20Level%20%26%20Pump%20Control) | Arduino, Ultrasonic Sensor, LCD, Motor Driver, DC Motor, Battery |
 | 5 | [Theft Detection Using PIR Sensor and Buzzer](Theft%20Detection) | Arduino, PIR Sensor, Buzzer, LED, Servo Motor, LCD |
-| 6 | [Plant Watering System using Soil Moisture Sensor and Water Pump]() | Arduino, Soil Moisture Sensor, Motor Driver, DC Motor, LCD, Battery |
+| 6 | [Plant Watering System using Soil Moisture Sensor and Water Pump](https://github.com/TajkirHossen-14/Arduino-Experiment-Archive/tree/main/Plant%20Watering%20System) | Arduino, Soil Moisture Sensor, Motor Driver, DC Motor, LCD, Battery |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=028ca7&height=2&section=header"/>
 
