@@ -57,7 +57,7 @@ This experiment demonstrates a **remote-controlled AC bulb system** using an **A
 
 ![Remote Control of AC Bulb](Circuit_Diagram.png)
 
-🔗 **[View Live Simulation on Tinkercad](YOUR_TINKERCAD_LINK)**
+🔗 **[View Live Simulation on Tinkercad](https://www.tinkercad.com/things/j9FM85sNqwp-remote-control-of-ac-bulb)**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
