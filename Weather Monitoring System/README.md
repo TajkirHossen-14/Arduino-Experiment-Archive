@@ -17,7 +17,6 @@ The project demonstrates how multiple sensor inputs can be processed by a microc
 ## 🎯 Objective
 
 - To monitor temperature, gas sensor readings, and wind speed using Arduino.
-- To measure distance using an ultrasonic sensor.
 - To display sensor-related alerts on an LCD.
 - To implement threshold-based monitoring using conditional statements.
 - To understand sensor interfacing and basic automation with a microcontroller.
