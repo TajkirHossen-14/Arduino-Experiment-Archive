@@ -66,7 +66,7 @@ The project demonstrates how multiple sensor inputs can be processed by a microc
 
 ![Weather Monitoring System Circuit Diagram](Circuit_Diagram.png)
 
-🔗 **[View Live Simulation on Tinkercad](YOUR_TINKERCAD_LINK)**
+🔗 **[View Live Simulation on Tinkercad](https://www.tinkercad.com/things/i7lQ600xRUe-weather-monitoring-system)**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=316e99&height=2&section=header"/>
 
