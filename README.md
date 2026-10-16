@@ -22,7 +22,7 @@
 | 5 | [Theft Detection Using PIR Sensor and Buzzer](Theft%20Detection) | Arduino, PIR Sensor, Buzzer, LED, Servo Motor, LCD |
 | 6 | [Plant Watering System Using Soil Moisture Sensor and Water Pump](https://github.com/TajkirHossen-14/Arduino-Experiment-Archive/tree/main/Plant%20Watering%20System) | Arduino, Soil Moisture Sensor, Motor Driver, DC Motor, LCD, Battery |
 | 7 | [Remote Control of AC Bulb](https://github.com/TajkirHossen-14/Arduino-Experiment-Archive/tree/main/Remote%20Control%20of%20AC%20Bulb) | Arduino, IR Receiver, IR Remote, Relay Module, AC Power |
-| 8 | [Weather Monitoring System Using Temperature, Gas, Windspeed and Rain Sensors]() | – |
+| 8 | [Weather Monitoring System Using Temperature, Gas, Windspeed and Rain Sensors](https://github.com/TajkirHossen-14/Arduino-Experiment-Archive/tree/main/Weather%20Monitoring%20System) | Arduino, Temperature Sensor, Gas Sensor, Wind Speed Sensor, Ultrasonic Sensor, LCD |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=028ca7&height=2&section=header"/>
 
